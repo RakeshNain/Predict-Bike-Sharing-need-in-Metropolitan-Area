@@ -1,0 +1,2 @@
+# Predict-Bike-Sharing-need-in-Metropolitan-Area
+In this project, we are interested in exploring machine learning approaches to predict the demands for bike sharing based on relevant data such as weather, season, holiday, etc, which are known to influence the demands for bike renting. The aim is to build statistical learning models that can predict how many bikes are required in a particular area at a particular time, and identify the major factors that affect the bike demand.
